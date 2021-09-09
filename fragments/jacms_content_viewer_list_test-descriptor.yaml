@@ -1,4 +1,4 @@
-code: jacms_content_viewer_list
+code: jacms_content_viewer_list_test
 guiCode: |-
   <#assign jacms=JspTaglibs["/jacms-aps-core"]>
   <#assign wp=JspTaglibs["/aps-core"]>
