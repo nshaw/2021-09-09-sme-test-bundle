@@ -1,0 +1,10 @@
+code: sme_army_logo_small
+titles:
+  en: sme army logo small
+  it: sme piccolo logo esercito
+group: free
+customUi: |-
+  <#assign wp=JspTaglibs["/aps-core"]>
+  <a class="d-none d-lg-block navbar-brand" href="https://intranet.esercito.difesa.it/" target="_blank">
+     <img class="esercito-logo" src="<@wp.imgURL />Esercito horizontal_color_1x.png" alt="logo">
+  </a>

@@ -1,0 +1,13 @@
+code: sme_header_inclusion
+guiCode: |-
+  <#assign wp=JspTaglibs["/aps-core"]>
+
+  <link rel="stylesheet" href="<@wp.resourceURL />static/smetemplate/css/bootstrap-italia.min.css" media="screen" />
+  <link rel="stylesheet" href="<@wp.resourceURL />static/smetemplate/css/custom.css" />
+  <link rel="stylesheet" href="<@wp.resourceURL />static/smetemplate/css/media-queries.css" rel="stylesheet">
+  <script nonce="<@wp.cspNonce />">window.__PUBLIC_PATH__ = '<@wp.resourceURL />static/smetemplate/fonts'</script>
+
+  <link rel="icon" href="<@wp.resourceURL />static/smetemplate/img/favicon.ico"/>
+  <script nonce="<@wp.cspNonce />" src="<@wp.resourceURL />static/smetemplate/js/jquery-3.3.1.min.js"></script>
+  <script nonce="<@wp.cspNonce />" src="<@wp.resourceURL />static/smetemplate/js/custom_js.js"></script>
+  <script nonce="<@wp.cspNonce />" src="<@wp.resourceURL />static/smetemplate/js/fa.js"></script>

@@ -1,0 +1,60 @@
+id: 9
+contentType: CRD
+description: sme Documenti Evidenza dettaglio (CRD)
+contentShape: |
+  <!--sme Documenti Evidenza dettaglio (CRD) -->
+  <div class="my-5">
+      <h3 class="">$i18n.getLabel("DETTAGLIO")
+          <span class="">"$content.title.text"</span>
+          #foreach ($contentCategory in $content.getCategories())
+          <span class="badge badge-pill badge-primary pull-right">$contentCategory.title</span>
+          #end
+      </h3>
+  </div>
+  <ul class="list-unstyled ">
+      <li class="media row">  
+
+          #if($content.img.text != "")
+          <img class="mr-3 col-md-2 col-sm-12" src="$content.img.getImagePath("0")" alt="$content.img.text">       
+          #end
+
+          <div class="media-body col-md-10 col-sm-12 ">
+              <h5 class="mt-0 mb-1 mb-2">
+                  $content.title.text
+              </h5>
+              <h6 class="mt-0 mb-1 mb-2 data">
+                  $content.date.longDate
+              </h6>
+              $content.abstract.text
+              <div class="my-5">
+                  #if ( $content.attach.size() < 1)
+                  <div class="callout warning"> 
+                      <div class="callout-title">  
+                          <svg class="icon icon-primary">
+                          <use xlink:href="../cmsresources/static/smetemplate/img/sprite.svg#it-help-circle"></use> 
+                          </svg>$i18n.getLabel('NOTIFICA')</div> 
+                      <p>$i18n.getLabel('NO_ALLEGATI')</p> 
+                  </div> 
+                  #else  
+                  <div id="collapsible" class="collapse-div collapse-background-active" role="tablist">  
+                      <div class="collapse-header" id="collapsible">
+                          <button data-toggle="collapse" data-target="#A-$content.attach.size()" aria-expanded="false" aria-controls="collapse1-sc1"> 
+                              $i18n.getLabel('ALLEGATI')
+                              <span class="badge badge-primary">$content.attach.size()</span>   
+                          </button>   
+                      </div>       
+                      <div id="A-$content.attach.size()" class="collapse" role="tabpanel" aria-labelledby="heading1-sc1"> 
+                          <div class="collapse-body">  
+                              #foreach ($item in $content.attach)  
+                              <span class="btn btn-outline-primary mt-3">   
+                                  <a href="$item.attachPath">$item.text</a> 
+                              </span>                                  
+                              #end            
+                          </div>               
+                      </div>           
+                  </div>  
+                  #end    
+              </div> 
+          </div> 
+      </li>
+  </ul>

@@ -1,0 +1,136 @@
+code: LOG
+name: sme logo (LOG)
+status: '0'
+attributes:
+  - code: text
+    type: Text
+    names:
+      en: Titolo -  ente appartenenza
+      it: Ente appartenenza
+    roles: []
+    disablingCodes: []
+    mandatory: false
+    listFilter: false
+    indexable: false
+    validationRules:
+      minLength: null
+      maxLength: null
+      regex: null
+      rangeStartString: null
+      rangeEndString: null
+      rangeStartStringAttribute: null
+      rangeEndStringAttribute: null
+      equalString: null
+      equalStringAttribute: null
+      rangeStartDate: null
+      rangeEndDate: null
+      rangeStartDateAttribute: null
+      rangeEndDateAttribute: null
+      equalDate: null
+      equalDateAttribute: null
+      rangeStartNumber: null
+      rangeStartNumberAttribute: null
+      rangeEndNumber: null
+      rangeEndNumberAttribute: null
+      equalNumber: null
+      equalNumberAttribute: null
+      ognlValidation: null
+  - code: text2
+    type: Text
+    names:
+      en: Sottotitolo Ente appartenenza
+      it: Sottotitolo Ente appartenenza
+    roles: []
+    disablingCodes: []
+    mandatory: false
+    listFilter: false
+    indexable: false
+    validationRules:
+      minLength: null
+      maxLength: null
+      regex: null
+      rangeStartString: null
+      rangeEndString: null
+      rangeStartStringAttribute: null
+      rangeEndStringAttribute: null
+      equalString: null
+      equalStringAttribute: null
+      rangeStartDate: null
+      rangeEndDate: null
+      rangeStartDateAttribute: null
+      rangeEndDateAttribute: null
+      equalDate: null
+      equalDateAttribute: null
+      rangeStartNumber: null
+      rangeStartNumberAttribute: null
+      rangeEndNumber: null
+      rangeEndNumberAttribute: null
+      equalNumber: null
+      equalNumberAttribute: null
+      ognlValidation: null
+  - code: img
+    type: Image
+    names:
+      en: Image logo
+      it: Logo image
+    roles: []
+    disablingCodes: []
+    mandatory: false
+    listFilter: false
+    indexable: false
+    validationRules:
+      minLength: null
+      maxLength: null
+      regex: null
+      rangeStartString: null
+      rangeEndString: null
+      rangeStartStringAttribute: null
+      rangeEndStringAttribute: null
+      equalString: null
+      equalStringAttribute: null
+      rangeStartDate: null
+      rangeEndDate: null
+      rangeStartDateAttribute: null
+      rangeEndDateAttribute: null
+      equalDate: null
+      equalDateAttribute: null
+      rangeStartNumber: null
+      rangeStartNumberAttribute: null
+      rangeEndNumber: null
+      rangeEndNumberAttribute: null
+      equalNumber: null
+      equalNumberAttribute: null
+      ognlValidation: null
+  - code: link
+    type: Link
+    names:
+      en: image link
+      it: link immagine
+    roles: []
+    disablingCodes: []
+    mandatory: false
+    listFilter: false
+    indexable: false
+    validationRules:
+      minLength: null
+      maxLength: null
+      regex: null
+      rangeStartString: null
+      rangeEndString: null
+      rangeStartStringAttribute: null
+      rangeEndStringAttribute: null
+      equalString: null
+      equalStringAttribute: null
+      rangeStartDate: null
+      rangeEndDate: null
+      rangeStartDateAttribute: null
+      rangeEndDateAttribute: null
+      equalDate: null
+      equalDateAttribute: null
+      rangeStartNumber: null
+      rangeStartNumberAttribute: null
+      rangeEndNumber: null
+      rangeEndNumberAttribute: null
+      equalNumber: null
+      equalNumberAttribute: null
+      ognlValidation: null

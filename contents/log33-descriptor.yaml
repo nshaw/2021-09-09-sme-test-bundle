@@ -1,0 +1,98 @@
+id: LOG33
+typeCode: LOG
+description: logo c4 esercito
+mainGroup: free
+status: PUBLIC
+attributes:
+  - code: text
+    value: null
+    values:
+      en: logo old sme
+      it: logo old sme
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text2
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: img
+    value: null
+    values:
+      en:
+        correlationCode: '32'
+        name: logoSME.png
+        metadata:
+          Compression Type: Deflate
+          File Size: 89906 bytes
+          Interlace Method: No Interlace
+          White Point X: '31269'
+          White Point Y: '32899'
+          Red Y: '33001'
+          Red X: '63999'
+          File Name: logoSME_d0.png
+          Filter Method: Adaptive
+          Detected File Type Long Name: Portable Network Graphics
+          File Modified Date: 'Wed Sep 08 09:52:33 +00:00 2021'
+          Pixels Per Unit X: '2835'
+          Detected MIME Type: image/png
+          Expected File Name Extension: png
+          Pixels Per Unit Y: '2835'
+          Image Height: '305'
+          Image Width: '332'
+          Unit Specifier: Metres
+          Detected File Type Name: PNG
+          Green X: '30000'
+          Blue X: '15000'
+          Blue Y: '5999'
+          Color Type: True Color with Alpha
+          Green Y: '60000'
+          Bits Per Sample: '8'
+      it:
+        correlationCode: '32'
+        name: logoSME.png
+        metadata:
+          Compression Type: Deflate
+          File Size: 89906 bytes
+          Interlace Method: No Interlace
+          White Point X: '31269'
+          White Point Y: '32899'
+          Red Y: '33001'
+          Red X: '63999'
+          File Name: logoSME_d0.png
+          Filter Method: Adaptive
+          Detected File Type Long Name: Portable Network Graphics
+          File Modified Date: 'Wed Sep 08 09:52:33 +00:00 2021'
+          Pixels Per Unit X: '2835'
+          Detected MIME Type: image/png
+          Expected File Name Extension: png
+          Pixels Per Unit Y: '2835'
+          Image Height: '305'
+          Image Width: '332'
+          Unit Specifier: Metres
+          Detected File Type Name: PNG
+          Green X: '30000'
+          Blue X: '15000'
+          Blue Y: '5999'
+          Color Type: True Color with Alpha
+          Green Y: '60000'
+          Bits Per Sample: '8'
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: link
+    value:
+      destType: 2
+      urlDest: null
+      pageDest: my_homepage
+      contentDest: null
+      resourceDest: null
+      symbolicDestination: '#!P;my_homepage!#'
+    values:
+      en: test link
+      it: test link
+    elements: []
+    compositeelements: []
+    listelements: {}

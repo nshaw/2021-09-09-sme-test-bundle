@@ -1,0 +1,16 @@
+code: test2
+parentCode: homepage
+titles:
+  en: test2
+  it: test2
+pageModel: 1-column
+ownerGroup: free
+joinGroups: []
+displayedInMenu: true
+seo: false
+charset: utf8
+status: published
+widgets:
+  - code: test2
+    config: null
+    pos: 4

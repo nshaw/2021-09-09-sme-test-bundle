@@ -1,0 +1,82 @@
+id: MED76
+typeCode: MED
+description: lista video
+mainGroup: free
+status: PUBLIC
+listModel: '8'
+defaultModel: '8'
+categories:
+  - video
+attributes:
+  - code: link
+    value:
+      destType: 2
+      urlDest: null
+      pageDest: homepage
+      contentDest: null
+      resourceDest: null
+      symbolicDestination: '#!P;homepage!#'
+    values:
+      en: test
+      it: test
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: img
+    value: null
+    values:
+      en:
+        correlationCode: htmlCode
+        name: html_code.jpg
+        metadata:
+          Resolution Units: inch
+          Number of Tables: 4 Huffman tables
+          Detected File Type Long Name: Joint Photographic Experts Group
+          File Modified Date: 'Wed Apr 28 10:59:10 +00:00 2021'
+          Compression Type: Baseline
+          Data Precision: 8 bits
+          Detected MIME Type: image/jpeg
+          Expected File Name Extension: jpg
+          Number of Components: '3'
+          Component 2: 'Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert'
+          Thumbnail Height Pixels: '0'
+          Component 1: 'Y component: Quantization table 0, Sampling factors 1 horiz/1 vert'
+          Image Height: 625 pixels
+          Thumbnail Width Pixels: '0'
+          X Resolution: 72 dots
+          Image Width: 1000 pixels
+          File Size: 529361 bytes
+          Component 3: 'Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert'
+          Version: '1.1'
+          Detected File Type Name: JPEG
+          File Name: html_code_d0.jpg
+          Y Resolution: 72 dots
+      it:
+        correlationCode: htmlCode
+        name: html_code.jpg
+        metadata:
+          Resolution Units: inch
+          Number of Tables: 4 Huffman tables
+          Detected File Type Long Name: Joint Photographic Experts Group
+          File Modified Date: 'Wed Apr 28 10:59:10 +00:00 2021'
+          Compression Type: Baseline
+          Data Precision: 8 bits
+          Detected MIME Type: image/jpeg
+          Expected File Name Extension: jpg
+          Number of Components: '3'
+          Component 2: 'Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert'
+          Thumbnail Height Pixels: '0'
+          Component 1: 'Y component: Quantization table 0, Sampling factors 1 horiz/1 vert'
+          Image Height: 625 pixels
+          Thumbnail Width Pixels: '0'
+          X Resolution: 72 dots
+          Image Width: 1000 pixels
+          File Size: 529361 bytes
+          Component 3: 'Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert'
+          Version: '1.1'
+          Detected File Type Name: JPEG
+          File Name: html_code_d0.jpg
+          Y Resolution: 72 dots
+    elements: []
+    compositeelements: []
+    listelements: {}

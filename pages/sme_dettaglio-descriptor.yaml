@@ -1,0 +1,63 @@
+code: sme_dettaglio
+parentCode: sme_template
+titles:
+  en: Sme detail
+  it: Sme dettaglio
+pageModel: sme-home
+ownerGroup: free
+joinGroups: []
+displayedInMenu: true
+seo: false
+charset: utf-8
+status: published
+widgets:
+  - code: content_viewer
+    config:
+      contentDescription: logo esercito musthead
+      modelId: '1'
+      ownerGroup: free
+      contentId: LOG158
+      joinGroups: '[]'
+    pos: 0
+  - code: sme_login
+    config: null
+    pos: 1
+  - code: content_viewer
+    config:
+      contentDescription: logo reggimento casalina
+      modelId: '11'
+      ownerGroup: free
+      contentId: LOG154
+      joinGroups: '[]'
+    pos: 2
+  - code: sme_search
+    config: null
+    pos: 3
+  - code: sme_static_menu_tbd
+    config: null
+    pos: 4
+  - code: sme_breadcrumb
+    config: null
+    pos: 5
+  - code: content_viewer
+    config: null
+    pos: 6
+  - code: content_viewer
+    config:
+      contentDescription: logo esercito footer
+      modelId: '2'
+      ownerGroup: free
+      contentId: LOG144
+      joinGroups: '[]'
+    pos: 12
+  - code: content_viewer
+    config:
+      contentDescription: logo agid footer
+      modelId: '2'
+      ownerGroup: free
+      contentId: LOG147
+      joinGroups: '[]'
+    pos: 13
+  - code: sme_footer
+    config: null
+    pos: 14

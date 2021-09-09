@@ -1,0 +1,340 @@
+code: CRD
+name: sme card generica (CRD)
+status: '0'
+attributes:
+  - code: ufficio
+    type: Text
+    names:
+      en: Publishing section
+      it: Ufficio che pubblica
+    roles: []
+    disablingCodes: []
+    mandatory: false
+    listFilter: false
+    indexable: false
+    validationRules:
+      minLength: null
+      maxLength: null
+      regex: null
+      rangeStartString: null
+      rangeEndString: null
+      rangeStartStringAttribute: null
+      rangeEndStringAttribute: null
+      equalString: null
+      equalStringAttribute: null
+      rangeStartDate: null
+      rangeEndDate: null
+      rangeStartDateAttribute: null
+      rangeEndDateAttribute: null
+      equalDate: null
+      equalDateAttribute: null
+      rangeStartNumber: null
+      rangeStartNumberAttribute: null
+      rangeEndNumber: null
+      rangeEndNumberAttribute: null
+      equalNumber: null
+      equalNumberAttribute: null
+      ognlValidation: null
+  - code: title
+    type: Text
+    names:
+      en: Title
+      it: titolo
+    roles: []
+    disablingCodes: []
+    mandatory: false
+    listFilter: false
+    indexable: false
+    validationRules:
+      minLength: null
+      maxLength: null
+      regex: null
+      rangeStartString: null
+      rangeEndString: null
+      rangeStartStringAttribute: null
+      rangeEndStringAttribute: null
+      equalString: null
+      equalStringAttribute: null
+      rangeStartDate: null
+      rangeEndDate: null
+      rangeStartDateAttribute: null
+      rangeEndDateAttribute: null
+      equalDate: null
+      equalDateAttribute: null
+      rangeStartNumber: null
+      rangeStartNumberAttribute: null
+      rangeEndNumber: null
+      rangeEndNumberAttribute: null
+      equalNumber: null
+      equalNumberAttribute: null
+      ognlValidation: null
+  - code: subtitle
+    type: Text
+    names:
+      en: subtitle
+      it: sottotitolo
+    roles: []
+    disablingCodes: []
+    mandatory: false
+    listFilter: false
+    indexable: false
+    validationRules:
+      minLength: null
+      maxLength: null
+      regex: null
+      rangeStartString: null
+      rangeEndString: null
+      rangeStartStringAttribute: null
+      rangeEndStringAttribute: null
+      equalString: null
+      equalStringAttribute: null
+      rangeStartDate: null
+      rangeEndDate: null
+      rangeStartDateAttribute: null
+      rangeEndDateAttribute: null
+      equalDate: null
+      equalDateAttribute: null
+      rangeStartNumber: null
+      rangeStartNumberAttribute: null
+      rangeEndNumber: null
+      rangeEndNumberAttribute: null
+      equalNumber: null
+      equalNumberAttribute: null
+      ognlValidation: null
+  - code: abstract
+    type: Hypertext
+    names:
+      en: abstract
+      it: abstract
+    roles: []
+    disablingCodes: []
+    mandatory: false
+    listFilter: false
+    indexable: false
+    validationRules:
+      minLength: null
+      maxLength: null
+      regex: null
+      rangeStartString: null
+      rangeEndString: null
+      rangeStartStringAttribute: null
+      rangeEndStringAttribute: null
+      equalString: null
+      equalStringAttribute: null
+      rangeStartDate: null
+      rangeEndDate: null
+      rangeStartDateAttribute: null
+      rangeEndDateAttribute: null
+      equalDate: null
+      equalDateAttribute: null
+      rangeStartNumber: null
+      rangeStartNumberAttribute: null
+      rangeEndNumber: null
+      rangeEndNumberAttribute: null
+      equalNumber: null
+      equalNumberAttribute: null
+      ognlValidation: null
+  - code: img
+    type: Image
+    names:
+      en: image
+      it: immagine
+    roles: []
+    disablingCodes: []
+    mandatory: false
+    listFilter: false
+    indexable: false
+    validationRules:
+      minLength: null
+      maxLength: null
+      regex: null
+      rangeStartString: null
+      rangeEndString: null
+      rangeStartStringAttribute: null
+      rangeEndStringAttribute: null
+      equalString: null
+      equalStringAttribute: null
+      rangeStartDate: null
+      rangeEndDate: null
+      rangeStartDateAttribute: null
+      rangeEndDateAttribute: null
+      equalDate: null
+      equalDateAttribute: null
+      rangeStartNumber: null
+      rangeStartNumberAttribute: null
+      rangeEndNumber: null
+      rangeEndNumberAttribute: null
+      equalNumber: null
+      equalNumberAttribute: null
+      ognlValidation: null
+  - code: link
+    type: Link
+    names:
+      en: link
+      it: link
+    roles: []
+    disablingCodes: []
+    mandatory: false
+    listFilter: false
+    indexable: false
+    validationRules:
+      minLength: null
+      maxLength: null
+      regex: null
+      rangeStartString: null
+      rangeEndString: null
+      rangeStartStringAttribute: null
+      rangeEndStringAttribute: null
+      equalString: null
+      equalStringAttribute: null
+      rangeStartDate: null
+      rangeEndDate: null
+      rangeStartDateAttribute: null
+      rangeEndDateAttribute: null
+      equalDate: null
+      equalDateAttribute: null
+      rangeStartNumber: null
+      rangeStartNumberAttribute: null
+      rangeEndNumber: null
+      rangeEndNumberAttribute: null
+      equalNumber: null
+      equalNumberAttribute: null
+      ognlValidation: null
+  - code: date
+    type: Date
+    names:
+      en: date
+      it: data
+    roles: []
+    disablingCodes: []
+    mandatory: false
+    listFilter: false
+    indexable: false
+    validationRules:
+      minLength: null
+      maxLength: null
+      regex: null
+      rangeStartString: null
+      rangeEndString: null
+      rangeStartStringAttribute: null
+      rangeEndStringAttribute: null
+      equalString: null
+      equalStringAttribute: null
+      rangeStartDate: null
+      rangeEndDate: null
+      rangeStartDateAttribute: null
+      rangeEndDateAttribute: null
+      equalDate: null
+      equalDateAttribute: null
+      rangeStartNumber: null
+      rangeStartNumberAttribute: null
+      rangeEndNumber: null
+      rangeEndNumberAttribute: null
+      equalNumber: null
+      equalNumberAttribute: null
+      ognlValidation: null
+  - code: expDate
+    type: Date
+    names:
+      en: Valid until
+      it: Valido fino
+    roles: []
+    disablingCodes: []
+    mandatory: false
+    listFilter: false
+    indexable: false
+    validationRules:
+      minLength: null
+      maxLength: null
+      regex: null
+      rangeStartString: null
+      rangeEndString: null
+      rangeStartStringAttribute: null
+      rangeEndStringAttribute: null
+      equalString: null
+      equalStringAttribute: null
+      rangeStartDate: null
+      rangeEndDate: null
+      rangeStartDateAttribute: null
+      rangeEndDateAttribute: null
+      equalDate: null
+      equalDateAttribute: null
+      rangeStartNumber: null
+      rangeStartNumberAttribute: null
+      rangeEndNumber: null
+      rangeEndNumberAttribute: null
+      equalNumber: null
+      equalNumberAttribute: null
+      ognlValidation: null
+  - code: attach
+    type: Monolist
+    names:
+      en: attachment
+      it: allegati
+    roles: []
+    disablingCodes: []
+    mandatory: false
+    listFilter: false
+    indexable: false
+    validationRules:
+      minLength: null
+      maxLength: null
+      regex: null
+      rangeStartString: null
+      rangeEndString: null
+      rangeStartStringAttribute: null
+      rangeEndStringAttribute: null
+      equalString: null
+      equalStringAttribute: null
+      rangeStartDate: null
+      rangeEndDate: null
+      rangeStartDateAttribute: null
+      rangeEndDateAttribute: null
+      equalDate: null
+      equalDateAttribute: null
+      rangeStartNumber: null
+      rangeStartNumberAttribute: null
+      rangeEndNumber: null
+      rangeEndNumberAttribute: null
+      equalNumber: null
+      equalNumberAttribute: null
+      ognlValidation: null
+    nestedAttribute:
+      code: attach
+      type: Attach
+      name: attach
+      names:
+        en: attach
+      roles: []
+      disablingCodes: []
+      mandatory: false
+      listFilter: false
+      indexable: false
+      enumeratorStaticItems: null
+      enumeratorStaticItemsSeparator: null
+      enumeratorExtractorBean: null
+      validationRules:
+        minLength: null
+        maxLength: null
+        regex: null
+        rangeStartString: null
+        rangeEndString: null
+        rangeStartStringAttribute: null
+        rangeEndStringAttribute: null
+        equalString: null
+        equalStringAttribute: null
+        rangeStartDate: null
+        rangeEndDate: null
+        rangeStartDateAttribute: null
+        rangeEndDateAttribute: null
+        equalDate: null
+        equalDateAttribute: null
+        rangeStartNumber: null
+        rangeStartNumberAttribute: null
+        rangeEndNumber: null
+        rangeEndNumberAttribute: null
+        equalNumber: null
+        equalNumberAttribute: null
+        ognlValidation: null
+      nestedAttribute: null
+      compositeAttributes: null

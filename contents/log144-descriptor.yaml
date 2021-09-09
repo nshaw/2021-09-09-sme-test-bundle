@@ -1,0 +1,80 @@
+id: LOG144
+typeCode: LOG
+description: logo esercito footer
+mainGroup: free
+status: PUBLIC
+attributes:
+  - code: text
+    value: null
+    values:
+      en: logo esercito
+      it: logo esercito
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text2
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: img
+    value: null
+    values:
+      en:
+        correlationCode: '143'
+        name: Esercito horizontal_color_3x.png
+        metadata:
+          Filter Method: Adaptive
+          Detected File Type Long Name: Portable Network Graphics
+          File Modified Date: 'Wed Sep 08 16:35:07 +00:00 2021'
+          Compression Type: Deflate
+          Detected MIME Type: image/png
+          Expected File Name Extension: png
+          Image Height: '376'
+          Image Width: '1416'
+          File Size: 36474 bytes
+          Interlace Method: No Interlace
+          Detected File Type Name: PNG
+          XMP Value Count: '5'
+          File Name: Esercito_horizontal_color_3x_d0.png
+          Color Type: True Color with Alpha
+          Bits Per Sample: '8'
+          Textual Data: 'Software: Adobe ImageReady'
+      it:
+        correlationCode: '143'
+        name: Esercito horizontal_color_3x.png
+        metadata:
+          Filter Method: Adaptive
+          Detected File Type Long Name: Portable Network Graphics
+          File Modified Date: 'Wed Sep 08 16:35:07 +00:00 2021'
+          Compression Type: Deflate
+          Detected MIME Type: image/png
+          Expected File Name Extension: png
+          Image Height: '376'
+          Image Width: '1416'
+          File Size: 36474 bytes
+          Interlace Method: No Interlace
+          Detected File Type Name: PNG
+          XMP Value Count: '5'
+          File Name: Esercito_horizontal_color_3x_d0.png
+          Color Type: True Color with Alpha
+          Bits Per Sample: '8'
+          Textual Data: 'Software: Adobe ImageReady'
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: link
+    value:
+      destType: 1
+      urlDest: 'http://www.esercito.difesa.it/'
+      pageDest: null
+      contentDest: null
+      resourceDest: null
+      symbolicDestination: '#!U;http://www.esercito.difesa.it/!#'
+    values:
+      en: Vai al sito internet dell'Esercito Italiano
+      it: Vai al sito internet dell'Esercito Italiano
+    elements: []
+    compositeelements: []
+    listelements: {}

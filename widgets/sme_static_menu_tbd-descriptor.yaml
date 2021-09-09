@@ -1,0 +1,222 @@
+code: sme_static_menu_tbd
+titles:
+  en: sme static menu TBD
+  it: sme static menuT BD
+group: free
+customUi: |-
+  <#assign wp=JspTaglibs["/aps-core"]>
+  <@wp.info key="systemParam" paramName="applicationBaseURL" var="appUrl" />
+  <ul class="navbar-nav">
+      <div class="d-none d-xs-block d-sm-block d-lg-none">
+          <div class="custom-box">
+
+              <form action="/do/login" method="get">
+                  <input type="hidden" name="redirectTo" value="/it/homepage.page">
+                  <input type="submit" value="Accedi" class="btn btn-primary ">
+              </form>
+          </div>
+
+          <form class="form-inline" action="/it/risultati_ricerca.page" method="get">
+              <input class="form-control" type="text" name="search" placeholder="Cerca">
+          </form>
+      </div>
+
+      <li class="nav-item active">
+          <a href="/it/homepage.page" class="nav-link active">
+              <span>
+                  <!-- [ 0 ] -->
+                  <i class="icon-home"></i> 
+                  Home
+              </span>
+
+          </a>
+
+
+      </li>
+
+      <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">
+              <span>
+                  <!-- [ 0 ] -->
+
+                  Comando C4
+              </span>
+              <svg class="icon icon-xs">
+              <use href="<@wp.resourceURL />static/smetemplate/img/sprite.svg#it-expand"></use>
+              </svg>
+          </a>
+
+
+
+
+          <div class="dropdown-menu">
+              <div class="link-list-wrapper">
+                  <ul class="link-list">
+
+                      <li class="nav-item">
+                          <a href="/it/storia.page" class="nav-link">
+                              <span>
+                                  <!-- [ 1 ] -->
+
+                                  Storia
+                              </span>
+
+                          </a>
+
+
+                      </li>
+
+                      <li class="nav-item">
+                          <a href="/it/il_comandante.page" class="nav-link">
+                              <span>
+                                  <!-- [ 1 ] -->
+
+                                  Il Comandante
+                              </span>
+
+                          </a>
+
+
+                      </li>
+
+                      <li class="nav-item">
+                          <a href="/it/i_comandanti_capi_centro.page" class="nav-link">
+                              <span>
+                                  <!-- [ 1 ] -->
+
+                                  I Comandanti e  Capi Centro
+                              </span>
+
+                          </a>
+
+
+                      </li>
+
+                      <li class="nav-item">
+                          <a href="/it/come_raggiungerci.page" class="nav-link">
+                              <span>
+                                  <!-- [ 1 ] -->
+
+                                  Come raggiungerci
+                              </span>
+
+                          </a>
+                      </li>
+                      <li class="nav-item">
+                          <a href="/it/organigramma.page" class="nav-link">
+                              <span>
+                                  <!-- [ 1 ] -->
+
+                                  Organigramma
+                              </span>
+                          </a>
+
+                      </li>
+                      <li class="nav-item">
+                          <a href="/it/calendario.page" class="nav-link">
+                              <span>
+                                  <!-- [ 1 ] -->
+
+                                  Calendario
+                              </span>
+                          </a>
+                      </li>
+                      <li class="nav-item">
+                          <a href="/it/sezione_news.page" class="nav-link">
+                              <span>
+                                  <!-- [ 1 ] -->
+
+                                  In evidenza
+                              </span>
+
+                          </a>
+                      </li>
+                  </ul>
+              </div>
+          </div>
+      </li>
+      <li class="nav-item">
+          <a href="/it/serviziportale.page" class="nav-link">
+              <span>
+                  <!-- [ 0 ] -->
+
+                  Servizi Portale
+              </span>
+          </a>
+      </li>
+      <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">
+              <span>
+                  <!-- [ 0 ] -->
+                  Area Download
+              </span>
+              <svg class="icon icon-xs">
+              <use href="<@wp.resourceURL />static/smetemplate/img/sprite.svg#it-expand"></use>
+              </svg>
+          </a>
+          <div class="dropdown-menu">
+              <div class="link-list-wrapper">
+                  <ul class="link-list">
+                      <li class="nav-item">
+                          <a href="/it/utility.page" class="nav-link">
+                              <span>
+                                  <!-- [ 1 ] -->
+
+                                  Direttive
+                              </span>
+                          </a>
+                      </li>
+                      <li class="nav-item">
+                          <a href="/it/manuali.page" class="nav-link">
+                              <span>
+                                  <!-- [ 1 ] -->
+
+                                  Manuali
+                              </span>
+                          </a>
+                      </li>
+                      <li class="nav-item">
+                          <a href="/it/moduli.page" class="nav-link">
+                              <span>
+                                  <!-- [ 1 ] -->
+
+                                  Moduli
+                              </span>
+                          </a>
+                      </li>
+                      <li class="nav-item">
+                          <a href="/it/utility2.page" class="nav-link">
+                              <span>
+                                  <!-- [ 1 ] -->
+                                  Utility
+                              </span>
+                          </a>
+                      </li>
+                  </ul>
+              </div>
+          </div>
+      </li>
+      <li class="nav-item">
+          <a href="/it/link_esterni.page" class="nav-link">
+              <span>
+                  <!-- [ 0 ] -->
+
+                  Link Esterni
+              </span>
+
+          </a>
+      </li>
+      <li class="nav-item">
+          <a href="/it/contatti.page" class="nav-link">
+              <span>
+                  Contatti
+              </span>
+
+          </a>
+      </li>
+      <li class="nav-item d-lg-none d-xl-none">
+          <a class="nav-link" href="/do/logout.action">
+              Esci
+          </a>
+      </li>
+  </ul>

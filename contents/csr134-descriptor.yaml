@@ -1,0 +1,100 @@
+id: CSR134
+typeCode: CSR
+description: Medagliere
+mainGroup: free
+status: PUBLIC
+categories:
+  - quick_links
+attributes:
+  - code: title
+    value: null
+    values:
+      en: Medagliere
+      it: Medagliere
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: img
+    value: null
+    values:
+      en:
+        correlationCode: entandoAtPlan
+        name: entando_at_plan.jpg
+        metadata:
+          Resolution Units: inch
+          Number of Tables: 4 Huffman tables
+          Detected File Type Long Name: Joint Photographic Experts Group
+          File Modified Date: 'Wed Apr 28 10:59:07 +00:00 2021'
+          Compression Type: Baseline
+          Data Precision: 8 bits
+          Detected MIME Type: image/jpeg
+          Expected File Name Extension: jpg
+          Number of Components: '3'
+          Component 2: 'Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert'
+          Thumbnail Height Pixels: '0'
+          Component 1: 'Y component: Quantization table 0, Sampling factors 1 horiz/1 vert'
+          Image Height: 625 pixels
+          Thumbnail Width Pixels: '0'
+          X Resolution: 72 dots
+          Image Width: 1000 pixels
+          File Size: 321214 bytes
+          Component 3: 'Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert'
+          Version: '1.2'
+          Detected File Type Name: JPEG
+          File Name: entando_at_plan_d0.jpg
+          Y Resolution: 72 dots
+      it:
+        correlationCode: entandoAtPlan
+        name: entando_at_plan.jpg
+        metadata:
+          Resolution Units: inch
+          Number of Tables: 4 Huffman tables
+          Detected File Type Long Name: Joint Photographic Experts Group
+          File Modified Date: 'Wed Apr 28 10:59:07 +00:00 2021'
+          Compression Type: Baseline
+          Data Precision: 8 bits
+          Detected MIME Type: image/jpeg
+          Expected File Name Extension: jpg
+          Number of Components: '3'
+          Component 2: 'Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert'
+          Thumbnail Height Pixels: '0'
+          Component 1: 'Y component: Quantization table 0, Sampling factors 1 horiz/1 vert'
+          Image Height: 625 pixels
+          Thumbnail Width Pixels: '0'
+          X Resolution: 72 dots
+          Image Width: 1000 pixels
+          File Size: 321214 bytes
+          Component 3: 'Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert'
+          Version: '1.2'
+          Detected File Type Name: JPEG
+          File Name: entando_at_plan_d0.jpg
+          Y Resolution: 72 dots
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: link
+    value:
+      destType: 1
+      urlDest: 'http://ag-gate.sme.esercito.difesa.it/'
+      pageDest: null
+      contentDest: null
+      resourceDest: null
+      symbolicDestination: '#!U;http://ag-gate.sme.esercito.difesa.it/!#'
+    values:
+      en: aggate
+      it: aggate
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: posizione
+    value: '1'
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

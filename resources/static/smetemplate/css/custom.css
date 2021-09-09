@@ -1,0 +1,453 @@
+/**sme custom css file **/
+ p {
+     font-size: 1rem;
+     font-weight: 400;
+     line-height: 1.5;
+     letter-spacing: 0;
+     font-family: "Titillium Web",Geneva,Tahoma,sans-serif !important;
+}
+ a {
+     text-decoration: none;
+     background-color: transparent;
+}
+ .it-header-slim-wrapper {
+     background: rgb(0, 31, 107) ;
+}
+ .it-header-navbar-wrapper {
+     background-color: rgb(0, 31, 107) ;
+     border-top: 1px solid rgb(255, 255, 255);
+}
+ .it-footer-main {
+     background-color: rgb(16, 12, 0);
+     color: rgb(255, 255, 255);
+     font-size: 16px;
+     background-image: url(../img/vegetato_footer.jpg);
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-position: center top;
+}
+ .nav-mobile .esercito-logo {
+     display:none;
+}
+ .head-office {
+     background: #efefef;
+     padding: 10px 25px 10px 25px;
+     font-weight: 600;
+     border-top-left-radius: 6px;
+     border-top-right-radius: 6px;
+     font-size: 18px;
+}
+ .documenti-evidenza .card.card-big .card-body {
+     padding: 15px 25px 6px 25px;
+}
+ .documenti-evidenza .card-title a {
+     color: rgb(0, 102, 204);
+}
+ .btn-army-cards {
+     color: #fff ;
+     background-color:rgb(0, 102, 204);
+     border-color: rgb(0, 102, 204);
+}
+ .btn-army-cards a {
+     color: #fff ;
+}
+ .btn-army-cards:hover {
+     background-color: rgb(0, 102, 204);
+     border-color: rgb(0, 102, 204);
+}
+ .documenti-evidenza .card .it-card-footer {
+     display: -webkit-box;
+     display: -ms-flexbox;
+     display: flex;
+     -webkit-box-pack: justify;
+     -ms-flex-pack: justify;
+     justify-content: space-between;
+     -webkit-box-align: center;
+     -ms-flex-align: center;
+     align-items: center;
+     margin-top: 21px;
+     border-radius: 6px;
+}
+ .documenti-evidenza .it-card-footer button {
+     margin: 0 25px 17px 25px;
+}
+ .card {
+     transition: all 0.3s ease 0s;
+     border-radius:6px;
+     font-family: "Titillium Web",Geneva,Tahoma,sans-serif !important;
+}
+ .card-wrapper:hover {
+}
+ .card-services-wrapper .card-services {
+     background: #fff;
+     box-shadow: 0 3px 6px rgb(0 0 0 / 16%), 0 3px 6px rgb(0 0 0 / 23%);
+     transition: all 0.3s ease;
+     border-radius: 6px;
+}
+ .card-services-wrapper .card-services a {
+     width: 100%;
+     color: #000;
+     font-size: 20px;
+     font-weight: 600;
+}
+ .card-services-wrapper .card-services a:hover {
+     color: #fff;
+     text-decoration: none;
+}
+ .card-services-wrapper .card-services:hover {
+     background: rgb(0, 102, 204);
+     box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+ .card-services-wrapper .service-img {
+     filter: invert(0) sepia(0) saturate(1) hue-rotate(0deg) brightness(1.2);
+     text-align: center;
+}
+ .card-services-wrapper .card-services:hover .service-img {
+     filter: brightness(0) invert(1);
+}
+ .col-custom-20 {
+     flex: 0 0 20%;
+     -ms-flex: 0 0 19%;
+     max-width: 20%;
+}
+ .row [class*=col-]>.card-wrapper, .row [class*=col-]>.card-wrapper>.card {
+     height: 100%;
+}
+ .card-wrapper {
+     padding-bottom: 24px;
+     display: -webkit-box;
+     display: -ms-flexbox;
+     display: flex;
+}
+ .card-services-wrapper .partnerLogo {
+     height: 69px;
+     margin: 22px 0;
+}
+ .card-services-wrapper .highlights-news .card.card-bg {
+     border-top-left-radius: 0;
+     border-top-right-radius: 0;
+     box-shadow: none;
+}
+ .section-title {
+     margin: 1em 0;
+     font-weight: 600;
+     display: flex;
+     align-items: center;
+}
+ .card-services-wrapper .service-title {
+     text-align:center;
+     font-weight: 600;
+}
+ .link-evidenza .card-wrapper>.card {
+     background-color: rgb(0, 102, 204);
+}
+ .img-responsive-wrapper {
+     overflow: hidden;
+     border-top-left-radius: 6px;
+     border-top-right-radius: 6px;
+}
+ .link-body {
+     background: rgb(0, 102, 204);
+     font-size: 16px;
+     color: #fff;
+     font-weight: 600;
+     text-transform: unset;
+     border-bottom-left-radius: 6px;
+     border-bottom-right-radius: 6px;
+     line-height: 22px;
+     padding: .8em;
+}
+ .card.card-img {
+     margin-left: 8px;
+     margin-right: 8px;
+     border-right: none;
+     box-shadow: 0 3px 6px rgb(0 0 0 / 16%), 0 3px 6px rgb(0 0 0 / 23%);
+     transition: all 0.3s ease;
+     border-radius: 6px;
+}
+ .img-responsive-wrapper .img-responsive .img-wrapper {
+     position: absolute;
+     top: 0;
+     left: 0;
+     width: 100%;
+     height: 100%;
+}
+ .blocca {
+     z-index: 10000;
+     position: fixed !important;
+     top: 0px !important;
+     width: 100% !important;
+}
+ .awareness-card .card-text:last-child {
+     margin-bottom: 0px;
+}
+ .awareness-card .card.card-big .card-body p {
+     position: relative;
+     line-height: 1.2em;
+     max-height: 3.6em;
+     text-align: justify;
+     margin-right: -1em;
+     padding-right: 1em;
+     overflow: hidden;
+}
+ .awareness-card .card.card-big .card-body p::before {
+     content: "...";
+     position: absolute;
+     right: 5px;
+     bottom: 0px;
+}
+ .awareness-card .card.card-big .card-body p::after {
+     content: "";
+     position: absolute;
+     right: 0px;
+     width: 1em;
+     height: 1em;
+     margin-top: 0.2em;
+     background: white;
+}
+ .awareness-card.card {
+     display: flex;
+     -webkit-box-orient: vertical;
+     -webkit-box-direction: normal;
+     flex-direction: column;
+     min-width: 0px;
+     overflow-wrap: break-word;
+     background-color: rgb(255, 255, 255);
+     background-clip: border-box;
+     border-width: 1px;
+     border-style: solid;
+     border-color: rgb(217, 218, 219);
+     border-image: initial;
+     border-radius: 0px;
+}
+ .awareness-card .card.card-big .card-body h5.card-title {
+     font-size: 20px;
+     line-height: 1.55556rem;
+}
+ .awareness-card .card.card-big .card-body {
+     padding: 15px 25px 37px;
+}
+ .awareness-card .card.card-bg {
+     margin-left: 8px;
+     margin-right: 8px;
+     box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+     background: rgb(255, 255, 255);
+     border-right: none;
+     border-radius: 6px;
+     transition: all 0.3s ease 0s;
+}
+ .awareness-card .card-pointer:hover {
+     cursor: pointer;
+}
+ .awareness-card .card:hover {
+     box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+ .link-evidenza .card:hover {
+     box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+ .documenti-evidenza .card:hover {
+     box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+ .logo-sezione {
+     height: 51px;
+     margin-right: 10px;
+}
+ .col-custom-20 {
+     flex: 0 0 20%;
+     -ms-flex: 0 0 19%;
+     max-width: 20%;
+}
+ .link-body {
+     background: #001f6b;
+     font-size: 16px;
+     color: #fff;
+     font-weight: 600;
+     text-transform: unset;
+     border-bottom-left-radius: 6px;
+     border-bottom-right-radius: 6px;
+     line-height: 22px;
+}
+ .row [class*=col-]>.card-wrapper, .row [class*=col-]>.card-wrapper>.card {
+     height: 100%;
+}
+ .link-evidenza .card-wrapper>.card {
+     background-color: #001f6b;
+}
+ .card.card-bg:after {
+     background: 0 0 
+}
+ .card.card-img {
+     margin-left: 8px;
+     margin-right: 8px;
+     border-right: none;
+     box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+     transition: all 0.3s ease;
+     border-radius: 6px;
+}
+ .card.card-img:hover {
+     box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+ .card.card-img h5.card-title {
+     font-size: 1.11111rem;
+     line-height: 1.55556rem 
+}
+ .card.card-img .img-responsive-wrapper .img-responsive {
+     padding-bottom: 61.29% 
+}
+ .card.no-after:after {
+     display: none 
+}
+ .card.no-after a.read-more {
+     position: inherit 
+}
+ .card.special-card .img-responsive-wrapper {
+     overflow: visible;
+     position: relative;
+     width: 174px;
+     margin-bottom: 24px 
+}
+ .link-list-wrapper a.nav-link {
+     font-weight: 400;
+     padding: 1px 22px !Important;
+     color: #fff;
+}
+ .btn-keycloak-redirect {
+     padding: 2px 22px !Important;
+     margin-top:2px;
+}
+ .card.card-big .card-body h5.card-title {
+     font-size: 20px;
+     line-height: 1.55556rem;
+}
+ .card.card-big .card-body p {
+     overflow: hidden;
+     position: relative;
+     line-height: 1.2em;
+     max-height: 3.6em;
+     text-align: justify;
+     margin-right: -1em;
+     padding-right: 1em;
+}
+ .card-wrapper {
+     padding-bottom: 24px;
+     display: -webkit-box;
+     display: -ms-flexbox;
+     display: flex;
+}
+ .awareness-card .card.card-bg {
+     margin-left: 8px;
+     margin-right: 8px;
+     box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+     background: #fff;
+     border-right: none;
+     border-radius: 6px;
+     transition: all 0.3s ease;
+}
+ .awareness-card .card.card-bg:hover {
+     box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+ .awareness-card .card.card-bg:hover .head-office {
+     background-color:#001f6b;
+     color:#fff;
+}
+ .awareness-card .card.card-bg:after {
+     background: 0 0 
+}
+ .awareness-card .card-wrapper {
+     height:auto;
+}
+ #news-list .it-single-slide-wrapper {
+     max-height:374px;
+}
+ .card.card-big .card-body p {
+     overflow: hidden;
+     position: relative;
+     line-height: 1.2em;
+     max-height: 3.6em;
+     text-align: justify;
+     margin-right: -1em;
+     padding-right: 1em;
+}
+ .card.card-big .card-body p:before {
+     content: '...';
+     position: absolute;
+     right: 5px;
+     bottom: 0;
+}
+ .card.card-big .card-body p:after {
+     content: '';
+     position: absolute;
+     right: 0;
+     width: 1em;
+     height: 1em;
+     margin-top: 0.2em;
+     background: white;
+}
+ .navbar .navbar-collapsable .menu-wrapper .navbar-nav .dropdown-menu {
+     padding-bottom: 0.5rem;
+     width: max-content;
+}
+ .card .card-body .category-top {
+     font-size: .77778rem;
+     text-transform: uppercase;
+     color: #435a70;
+     margin-bottom: 16px;
+}
+ .awareness-card .card .card-body .category-top .data:before, .documenti-evidenza .card .card-body .category-top .data:before {
+     content: '';
+     display: inline-block;
+     margin: 0;
+}
+ .icon-footer {
+     width: 77%;
+     margin: 10px 0px;
+}
+ .it-footer-main .link-list-wrapper ul li a {
+     font-family: "Titillium Web", Geneva, Tahoma, sans-serif;
+     font-size: 1em;
+     line-height: 2em;
+     color: rgb(255, 255, 255);
+     font-weight: 600;
+     padding: 0px;
+}
+ .it-footer-main hr {
+     margin-top: 9px;
+     margin-bottom: 9px;
+     border-right-style: initial;
+     border-bottom-style: initial;
+     border-left-style: initial;
+     border-right-color: initial;
+     border-bottom-color: initial;
+     border-left-color: initial;
+     width: 81%;
+     margin-left: 0px;
+     border-width: 1px 0px 0px;
+     border-image: initial;
+     border-top: 1px solid rgb(255, 255, 255);
+}
+
+.documenti-dettaglio-grey-background {
+    margin-bottom: 1em;
+    padding:1em;
+    background: rgb(211, 211, 211);
+    min-height:100px;
+}
+
+.btn-army-round {
+    font-size: 23px;
+    color: rgb(255, 255, 255);
+    border-radius: 6em;
+    outline: none;
+    padding: 16px;
+    background: rgb(0 31 107);
+    margin: 0px 12px;
+}
+
+.breadcrumb-container .breadcrumb {
+    padding: .5em 20px;
+    border-radius: 0;
+}
+
+.callout.warning .callout-title .icon {
+    fill: #a66300 !Important;
+}

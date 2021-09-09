@@ -1,0 +1,330 @@
+id: CRD120
+typeCode: CRD
+description: '  Visita Addetto Militare tunisino 3'
+mainGroup: free
+status: PUBLIC
+categories:
+  - news
+attributes:
+  - code: ufficio
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: Visita Addetto Militare tunisino 3
+      it: Visita Addetto Militare tunisino 3
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: subtitle
+    value: null
+    values:
+      en: Visita Addetto Militare tunisino
+      it: Visita Addetto Militare tunisino
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: abstract
+    value: null
+    values:
+      en: 'Accolto dal Comandante della Scuola, Generale di Brigata Salvatore Carta, il Commodoro ha assistito a un briefing informativo, nel quale sono state esposte le peculiarità della Scuola, con particolare riferimento agli aspetti formativi, addestrativi ed interculturali.'
+      it: 'Accolto dal Comandante della Scuola, Generale di Brigata Salvatore Carta, il Commodoro ha assistito a un briefing informativo, nel quale sono state esposte le peculiarità della Scuola, con particolare riferimento agli aspetti formativi, addestrativi ed interculturali.'
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: img
+    value: null
+    values:
+      en:
+        correlationCode: '43'
+        name: car1.jpg
+        metadata:
+          Media Black Point: '(0, 0, 0)'
+          Exif Version: '2.30'
+          Compression Type: Baseline
+          Number of Components: '3'
+          Component 2: 'Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert'
+          Focal Length: 10.4 mm
+          Component 1: 'Y component: Quantization table 0, Sampling factors 1 horiz/1 vert'
+          Profile Copyright: Copyright (c) 1998 Hewlett-Packard Company
+          Device Mfg Description: 'IEC http://www.iec.ch'
+          Date/Time Original: '2017:01:30 12:54:46'
+          Shutter Speed Value: 1/99 sec
+          Version Info: '1 (Adobe Photoshop, Adobe Photoshop CS4) 1'
+          Component 3: 'Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert'
+          Device Model Description: IEC 61966-2.1 Default RGB colour space - sRGB
+          F-Number: f/5.0
+          Sensitivity Type: Recommended Exposure Index
+          Primary Platform: Microsoft Corporation
+          Caption Digest: 58 167 200 77 149 193 212 194 157 231 7 214 16 247 4 157
+          Resolution Info: 300x300 DPI
+          File Source: Digital Still Camera (DSC)
+          Detected MIME Type: image/jpeg
+          Expected File Name Extension: jpg
+          Make: SONY
+          Orientation: 'Top, left side (Horizontal / normal)'
+          Metering Mode: Multi-segment
+          Contrast: None
+          Red Colorant: '(0.4361, 0.2225, 0.0139)'
+          Tag Count: '17'
+          Thumbnail Offset: 926 bytes
+          Color space: RGB
+          Viewing Conditions: 'view (0x76696577): 36 bytes'
+          Exif Image Height: 500 pixels
+          Profile Date/Time: '1998:02:09 06:49:00'
+          Y Resolution: 72 dots per inch
+          Seed Number: '1'
+          Focal Plane X Resolution: 32768/135838255 cm
+          Coded Character Set: UTF-8
+          White Balance: Unknown
+          CMM Type: Lino
+          XYZ values: 0.964 1 0.825
+          Thumbnail Height Pixels: '0'
+          Thumbnail Length: 6266 bytes
+          File Size: 339615 bytes
+          Aperture Value: f/5.0
+          Resolution Units: inch
+          File Modified Date: 'Wed Sep 08 10:59:59 +00:00 2021'
+          Date/Time: '2017:02:17 09:22:09'
+          Recommended Exposure Index: '125'
+          Exif Image Width: 840 pixels
+          Image Height: 500 pixels
+          Thumbnail Width Pixels: '0'
+          Pixel Aspect Ratio: '1.0'
+          Profile Size: '3144'
+          Flags 0: '64'
+          Device manufacturer: IEC
+          Luminance: '(76.0365, 80, 87.1246)'
+          Detected File Type Name: JPEG
+          Model: DSC-RX100
+          Print Scale: 'Centered, Scale 1.0'
+          White Balance Mode: Auto white balance
+          Flags 1: '0'
+          Lens Model: 28-100mm F1.8-4.9
+          Rendering Intent: Media-Relative Colorimetric
+          Compression: JPEG (old-style)
+          Number of Tables: 4 Huffman tables
+          Slices: 'Caserma 001 (0,0,500,840) 1 Slices'
+          X Resolution: 72 dots per inch
+          Blue Colorant: '(0.1431, 0.0606, 0.7141)'
+          Brightness Value: '7.17'
+          Focal Plane Resolution Unit: cm
+          Version: 2.1.0
+          Technology: CRT
+          Focal Length 35: 28 mm
+          Thumbnail Data: 'JpegRGB, 160x95, Decomp 45600 bytes, 1572865 bpp, 6266 bytes'
+          Exposure Program: Landscape mode
+          Application Record Version: '4'
+          Time Created: '12:54:46'
+          Digital Zoom Ratio: '1'
+          Detected File Type Long Name: Joint Photographic Experts Group
+          Exposure Time: 0.01 sec
+          Digital Date Created: '2017:01:30'
+          ISO Speed Ratings: '125'
+          Color Halftoning Information: '[72 values]'
+          Color Transfer Functions: '[112 values]'
+          Focal Plane Y Resolution: 32768/135838255 cm
+          Lens Specification: 10.4-37.1mm f/1.8-4.9
+          Color Transform: YCbCr
+          XMP Value Count: '200'
+          Global Angle: '30'
+          Software: Adobe Photoshop CS4 Windows
+          Class: Display Device
+          Profile Connection Space: XYZ
+          Date Created: '2017:01:30'
+          Measurement: '1931 2° Observer, Backing (0, 0, 0), Geometry Unknown, Flare 1%, Illuminant D65'
+          Scene Type: Directly photographed image
+          Viewing Conditions Description: Reference Viewing Condition in IEC61966-2.1
+          Data Precision: 8 bits
+          Green Colorant: '(0.3851, 0.7169, 0.0971)'
+          Profile Description: sRGB IEC61966-2.1
+          Digital Time Created: '12:54:46'
+          Color Space: sRGB
+          Global Altitude: '30'
+          Date/Time Digitized: '2017:01:30 12:54:46'
+          Grid and Guides Information: 0 0 0 1 0 0 2 64 0 0 2 64 0 0 0 0
+          File Name: car1_d0.jpg
+          Flash: Flash did not fire
+          Media White Point: '(0.9505, 1, 1.0891)'
+          JPEG Quality: '11 (Maximum), Standard format, 3 scans'
+          Saturation: None
+          DCT Encode Version: '25600'
+          Sharpness: None
+          Print Flags: 0 0 0 0 0 0 0 0 1
+          Image Width: 840 pixels
+          Print Flags Information: 0 1 0 0 0 0 0 0 0 2
+          Resolution Unit: Inch
+          Device model: sRGB
+          Exposure Bias Value: 0 EV
+          URL List: '0'
+          Max Aperture Value: f/1.8
+          Exposure Mode: Auto exposure
+          Signature: acsp
+          Scene Capture Type: Landscape
+          Custom Rendered: Normal process
+      it:
+        correlationCode: '43'
+        name: car1.jpg
+        metadata:
+          Media Black Point: '(0, 0, 0)'
+          Exif Version: '2.30'
+          Compression Type: Baseline
+          Number of Components: '3'
+          Component 2: 'Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert'
+          Focal Length: 10.4 mm
+          Component 1: 'Y component: Quantization table 0, Sampling factors 1 horiz/1 vert'
+          Profile Copyright: Copyright (c) 1998 Hewlett-Packard Company
+          Device Mfg Description: 'IEC http://www.iec.ch'
+          Date/Time Original: '2017:01:30 12:54:46'
+          Shutter Speed Value: 1/99 sec
+          Version Info: '1 (Adobe Photoshop, Adobe Photoshop CS4) 1'
+          Component 3: 'Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert'
+          Device Model Description: IEC 61966-2.1 Default RGB colour space - sRGB
+          F-Number: f/5.0
+          Sensitivity Type: Recommended Exposure Index
+          Primary Platform: Microsoft Corporation
+          Caption Digest: 58 167 200 77 149 193 212 194 157 231 7 214 16 247 4 157
+          Resolution Info: 300x300 DPI
+          File Source: Digital Still Camera (DSC)
+          Detected MIME Type: image/jpeg
+          Expected File Name Extension: jpg
+          Make: SONY
+          Orientation: 'Top, left side (Horizontal / normal)'
+          Metering Mode: Multi-segment
+          Contrast: None
+          Red Colorant: '(0.4361, 0.2225, 0.0139)'
+          Tag Count: '17'
+          Thumbnail Offset: 926 bytes
+          Color space: RGB
+          Viewing Conditions: 'view (0x76696577): 36 bytes'
+          Exif Image Height: 500 pixels
+          Profile Date/Time: '1998:02:09 06:49:00'
+          Y Resolution: 72 dots per inch
+          Seed Number: '1'
+          Focal Plane X Resolution: 32768/135838255 cm
+          Coded Character Set: UTF-8
+          White Balance: Unknown
+          CMM Type: Lino
+          XYZ values: 0.964 1 0.825
+          Thumbnail Height Pixels: '0'
+          Thumbnail Length: 6266 bytes
+          File Size: 339615 bytes
+          Aperture Value: f/5.0
+          Resolution Units: inch
+          File Modified Date: 'Wed Sep 08 10:59:59 +00:00 2021'
+          Date/Time: '2017:02:17 09:22:09'
+          Recommended Exposure Index: '125'
+          Exif Image Width: 840 pixels
+          Image Height: 500 pixels
+          Thumbnail Width Pixels: '0'
+          Pixel Aspect Ratio: '1.0'
+          Profile Size: '3144'
+          Flags 0: '64'
+          Device manufacturer: IEC
+          Luminance: '(76.0365, 80, 87.1246)'
+          Detected File Type Name: JPEG
+          Model: DSC-RX100
+          Print Scale: 'Centered, Scale 1.0'
+          White Balance Mode: Auto white balance
+          Flags 1: '0'
+          Lens Model: 28-100mm F1.8-4.9
+          Rendering Intent: Media-Relative Colorimetric
+          Compression: JPEG (old-style)
+          Number of Tables: 4 Huffman tables
+          Slices: 'Caserma 001 (0,0,500,840) 1 Slices'
+          X Resolution: 72 dots per inch
+          Blue Colorant: '(0.1431, 0.0606, 0.7141)'
+          Brightness Value: '7.17'
+          Focal Plane Resolution Unit: cm
+          Version: 2.1.0
+          Technology: CRT
+          Focal Length 35: 28 mm
+          Thumbnail Data: 'JpegRGB, 160x95, Decomp 45600 bytes, 1572865 bpp, 6266 bytes'
+          Exposure Program: Landscape mode
+          Application Record Version: '4'
+          Time Created: '12:54:46'
+          Digital Zoom Ratio: '1'
+          Detected File Type Long Name: Joint Photographic Experts Group
+          Exposure Time: 0.01 sec
+          Digital Date Created: '2017:01:30'
+          ISO Speed Ratings: '125'
+          Color Halftoning Information: '[72 values]'
+          Color Transfer Functions: '[112 values]'
+          Focal Plane Y Resolution: 32768/135838255 cm
+          Lens Specification: 10.4-37.1mm f/1.8-4.9
+          Color Transform: YCbCr
+          XMP Value Count: '200'
+          Global Angle: '30'
+          Software: Adobe Photoshop CS4 Windows
+          Class: Display Device
+          Profile Connection Space: XYZ
+          Date Created: '2017:01:30'
+          Measurement: '1931 2° Observer, Backing (0, 0, 0), Geometry Unknown, Flare 1%, Illuminant D65'
+          Scene Type: Directly photographed image
+          Viewing Conditions Description: Reference Viewing Condition in IEC61966-2.1
+          Data Precision: 8 bits
+          Green Colorant: '(0.3851, 0.7169, 0.0971)'
+          Profile Description: sRGB IEC61966-2.1
+          Digital Time Created: '12:54:46'
+          Color Space: sRGB
+          Global Altitude: '30'
+          Date/Time Digitized: '2017:01:30 12:54:46'
+          Grid and Guides Information: 0 0 0 1 0 0 2 64 0 0 2 64 0 0 0 0
+          File Name: car1_d0.jpg
+          Flash: Flash did not fire
+          Media White Point: '(0.9505, 1, 1.0891)'
+          JPEG Quality: '11 (Maximum), Standard format, 3 scans'
+          Saturation: None
+          DCT Encode Version: '25600'
+          Sharpness: None
+          Print Flags: 0 0 0 0 0 0 0 0 1
+          Image Width: 840 pixels
+          Print Flags Information: 0 1 0 0 0 0 0 0 0 2
+          Resolution Unit: Inch
+          Device model: sRGB
+          Exposure Bias Value: 0 EV
+          URL List: '0'
+          Max Aperture Value: f/1.8
+          Exposure Mode: Auto exposure
+          Signature: acsp
+          Scene Capture Type: Landscape
+          Custom Rendered: Normal process
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: link
+    value:
+      destType: 2
+      urlDest: null
+      pageDest: homepage
+      contentDest: null
+      resourceDest: null
+      symbolicDestination: '#!P;homepage!#'
+    values:
+      en: homepage
+      it: homepage
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: date
+    value: '2021-09-08 00:00:00'
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: expDate
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

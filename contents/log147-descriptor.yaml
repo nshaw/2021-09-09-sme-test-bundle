@@ -1,0 +1,82 @@
+id: LOG147
+typeCode: LOG
+description: logo agid footer
+mainGroup: free
+status: PUBLIC
+attributes:
+  - code: text
+    value: null
+    values:
+      en: agid
+      it: agid
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text2
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: img
+    value: null
+    values:
+      en:
+        correlationCode: '146'
+        name: AgID_white_2x.png
+        metadata:
+          Filter Method: Adaptive
+          Palette Size: '256'
+          Detected File Type Long Name: Portable Network Graphics
+          File Modified Date: 'Wed Sep 08 16:36:15 +00:00 2021'
+          Compression Type: Deflate
+          Palette Has Transparency: 'Yes'
+          Detected MIME Type: image/png
+          Expected File Name Extension: png
+          Image Gamma: '0.455'
+          Image Height: '58'
+          Image Width: '288'
+          File Size: 6461 bytes
+          Interlace Method: No Interlace
+          Detected File Type Name: PNG
+          File Name: AgID_white_2x_d0.png
+          Color Type: Indexed Color
+          Bits Per Sample: '8'
+      it:
+        correlationCode: '146'
+        name: AgID_white_2x.png
+        metadata:
+          Filter Method: Adaptive
+          Palette Size: '256'
+          Detected File Type Long Name: Portable Network Graphics
+          File Modified Date: 'Wed Sep 08 16:36:15 +00:00 2021'
+          Compression Type: Deflate
+          Palette Has Transparency: 'Yes'
+          Detected MIME Type: image/png
+          Expected File Name Extension: png
+          Image Gamma: '0.455'
+          Image Height: '58'
+          Image Width: '288'
+          File Size: 6461 bytes
+          Interlace Method: No Interlace
+          Detected File Type Name: PNG
+          File Name: AgID_white_2x_d0.png
+          Color Type: Indexed Color
+          Bits Per Sample: '8'
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: link
+    value:
+      destType: 1
+      urlDest: 'https://www.agid.gov.it/'
+      pageDest: null
+      contentDest: null
+      resourceDest: null
+      symbolicDestination: '#!U;https://www.agid.gov.it/!#'
+    values:
+      en: Vai al sito AGID
+      it: Vai al sito AGID
+    elements: []
+    compositeelements: []
+    listelements: {}

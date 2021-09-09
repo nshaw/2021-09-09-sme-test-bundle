@@ -1,0 +1,47 @@
+code: hello_world_app
+parentCode: my_homepage
+titles:
+  en: Hello World App
+pageModel: 1-column
+ownerGroup: free
+joinGroups: []
+displayedInMenu: true
+seo: false
+charset: utf-8
+status: published
+widgets:
+  - code: logo
+    config: null
+    pos: 0
+  - code: navigation-menu
+    config:
+      navSpec: code(my_homepage) + code(my_homepage).children
+    pos: 1
+  - code: search_form
+    config: null
+    pos: 2
+  - code: keycloak-login
+    config: null
+    pos: 3
+  - code: content_viewer
+    config:
+      contentDescription: A Modern Platform for Modern UX
+      contentId: BNR3
+      ownerGroup: free
+      joinGroups: '[]'
+    pos: 4
+  - code: row_content_viewer_list
+    config:
+      contents:
+        - modelId: '10021'
+          contentDescription: Why You Need a Micro Frontend Platform for Kubernetes
+          contentId: NWS4
+        - modelId: '10021'
+          contentId: NWS5
+      ownerGroup: free
+      joinGroups: '[]'
+    pos: 5
+  - code: navigation-menu
+    config:
+      navSpec: code(sitemap)
+    pos: 8

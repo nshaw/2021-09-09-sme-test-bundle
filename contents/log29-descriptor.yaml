@@ -1,0 +1,74 @@
+id: LOG29
+typeCode: LOG
+description: sme musthead
+mainGroup: free
+status: PUBLIC
+attributes:
+  - code: text
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text2
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: img
+    value: null
+    values:
+      en:
+        correlationCode: '28'
+        name: Esercito logo.png
+        metadata:
+          Filter Method: Adaptive
+          Detected File Type Long Name: Portable Network Graphics
+          File Modified Date: 'Wed Sep 08 09:33:20 +00:00 2021'
+          Compression Type: Deflate
+          Detected MIME Type: image/png
+          Expected File Name Extension: png
+          Image Gamma: '0.455'
+          Image Height: '20'
+          Image Width: '108'
+          File Size: 2313 bytes
+          Interlace Method: No Interlace
+          Detected File Type Name: PNG
+          File Name: Esercito_horizontal_color_1x_d0.png
+          Color Type: True Color with Alpha
+          Bits Per Sample: '8'
+      it:
+        correlationCode: '28'
+        name: Esercito horizontal_color_1x.png
+        metadata:
+          Filter Method: Adaptive
+          Detected File Type Long Name: Portable Network Graphics
+          File Modified Date: 'Wed Sep 08 09:33:20 +00:00 2021'
+          Compression Type: Deflate
+          Detected MIME Type: image/png
+          Expected File Name Extension: png
+          Image Gamma: '0.455'
+          Image Height: '20'
+          Image Width: '108'
+          File Size: 2313 bytes
+          Interlace Method: No Interlace
+          Detected File Type Name: PNG
+          File Name: Esercito_horizontal_color_1x_d0.png
+          Color Type: True Color with Alpha
+          Bits Per Sample: '8'
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: link
+    value:
+      destType: 0
+      urlDest: null
+      pageDest: null
+      contentDest: null
+      resourceDest: null
+      symbolicDestination: '#!!#'
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
