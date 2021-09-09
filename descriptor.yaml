@@ -34,9 +34,8 @@ components:
 #    - fragments/internal_servlet_generic_error-descriptor.yaml
 #    - fragments/internal_servlet_user_not_allowed-descriptor.yaml
 #    - fragments/jacms_content_viewer-descriptor.yaml
-#TODO: remove if the clone works
-#    - fragments/jacms_content_viewer_list-descriptor.yaml
-    - fragments/jacms_content_viewer_list_test-descriptor.yaml
+# Note: this will result in a warning in the install plan
+    - fragments/jacms_content_viewer_list-descriptor.yaml
 #    - fragments/jacms_content_viewer_list_userfilter_ent_bool_io-descriptor.yaml
 #    - fragments/jacms_content_viewer_list_userfilter_ent_boolean-descriptor.yaml
 #    - fragments/jacms_content_viewer_list_userfilter_ent_checkbox-descriptor.yaml
