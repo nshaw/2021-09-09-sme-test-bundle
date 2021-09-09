@@ -145,14 +145,14 @@ components:
     - assets/139/139-descriptor.yaml
     - assets/138/138-descriptor.yaml
     - assets/153/153-descriptor.yaml
-    - assets/141/141-descriptor.yaml
     - assets/102/102-descriptor.yaml
     - assets/43/43-descriptor.yaml
-    - assets/entandoatplan/entandoatplan-descriptor.yaml
-    - assets/entandoatwork/entandoatwork-descriptor.yaml
-    - assets/htmlcode/htmlcode-descriptor.yaml
-    - assets/32/32-descriptor.yaml
     - assets/140/140-descriptor.yaml
+    - assets/32/32-descriptor.yaml
+    - assets/141/141-descriptor.yaml
+#    - assets/entandoatplan/entandoatplan-descriptor.yaml
+#    - assets/entandoatwork/entandoatwork-descriptor.yaml
+#    - assets/htmlcode/htmlcode-descriptor.yaml
   contents:
     #    - contents/bnr2-descriptor.yaml
     #    - contents/bnr3-descriptor.yaml
@@ -196,5 +196,5 @@ components:
   labels:
     - labels/labels-descriptor.yaml
   languages:
-    - languages/languages-descriptor.yaml
+#    - languages/languages-descriptor.yaml
 
