@@ -42,7 +42,7 @@ customUi: |-
                   Comando C4
               </span>
               <svg class="icon icon-xs">
-              <use href="<@wp.resourceURL />static/smetemplate/img/sprite.svg#it-expand"></use>
+              <use href="<@wp.resourceURL />smetemplate/img/sprite.svg#it-expand"></use>
               </svg>
           </a>
 
@@ -151,7 +151,7 @@ customUi: |-
                   Area Download
               </span>
               <svg class="icon icon-xs">
-              <use href="<@wp.resourceURL />static/smetemplate/img/sprite.svg#it-expand"></use>
+              <use href="<@wp.resourceURL />smetemplate/img/sprite.svg#it-expand"></use>
               </svg>
           </a>
           <div class="dropdown-menu">

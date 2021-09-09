@@ -34,7 +34,8 @@ components:
 #    - fragments/internal_servlet_generic_error-descriptor.yaml
 #    - fragments/internal_servlet_user_not_allowed-descriptor.yaml
 #    - fragments/jacms_content_viewer-descriptor.yaml
-    - fragments/jacms_content_viewer_list-descriptor.yaml
+#TODO: remove if the clone works
+#    - fragments/jacms_content_viewer_list-descriptor.yaml
     - fragments/jacms_content_viewer_list_test-descriptor.yaml
 #    - fragments/jacms_content_viewer_list_userfilter_ent_bool_io-descriptor.yaml
 #    - fragments/jacms_content_viewer_list_userfilter_ent_boolean-descriptor.yaml
@@ -148,8 +149,8 @@ components:
     - assets/102/102-descriptor.yaml
     - assets/43/43-descriptor.yaml
     - assets/140/140-descriptor.yaml
-    - assets/32/32-descriptor.yaml
-    - assets/141/141-descriptor.yaml
+    - assets/532/532-descriptor.yaml
+    - assets/541/541-descriptor.yaml
 #    - assets/entandoatplan/entandoatplan-descriptor.yaml
 #    - assets/entandoatwork/entandoatwork-descriptor.yaml
 #    - assets/htmlcode/htmlcode-descriptor.yaml

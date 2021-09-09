@@ -13,11 +13,11 @@
   titles:
     en: media
     it: media
-- code: news
+- code: sme_news
   parentCode: home
   titles:
     en: news
-    it: nbotizie
+    it: notizie
 - code: highlight_links
   parentCode: links
   titles:

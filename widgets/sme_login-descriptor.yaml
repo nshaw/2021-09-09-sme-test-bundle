@@ -17,7 +17,7 @@ customUi: |-
               </#if>
           </span>
           <svg class="icon d-none d-lg-block">
-          <use xlink:href="<@wp.resourceURL />static/smetemplate/img/sprite.svg#it-expand"></use>
+          <use xlink:href="<@wp.resourceURL />smetemplate/img/sprite.svg#it-expand"></use>
           </svg>
       </a>
 

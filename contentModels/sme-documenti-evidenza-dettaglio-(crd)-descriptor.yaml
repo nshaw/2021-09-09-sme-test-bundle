@@ -31,7 +31,7 @@ contentShape: |
                   <div class="callout warning"> 
                       <div class="callout-title">  
                           <svg class="icon icon-primary">
-                          <use xlink:href="../cmsresources/static/smetemplate/img/sprite.svg#it-help-circle"></use> 
+                          <use xlink:href="../cmsresources/smetemplate/img/sprite.svg#it-help-circle"></use>
                           </svg>$i18n.getLabel('NOTIFICA')</div> 
                       <p>$i18n.getLabel('NO_ALLEGATI')</p> 
                   </div> 

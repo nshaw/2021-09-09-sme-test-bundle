@@ -8,7 +8,7 @@ guiCode: |-
           <div class="my-3"> 
               <#if (titleVar??)> 
               <h4 class="section-title">
-                  <img class="logo-sezione" src="<@wp.resourceURL />static/smetemplate/img/link@2x.png" alt="Add icon">
+                  <img class="logo-sezione" src="<@wp.resourceURL />smetemplate/img/link@2x.png" alt="Add icon">
                   ${titleVar}
               </h4>    
               </#if>

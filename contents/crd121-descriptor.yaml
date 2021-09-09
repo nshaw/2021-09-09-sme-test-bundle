@@ -4,7 +4,7 @@ description: '  Visita Addetto Militare tunisino 5'
 mainGroup: free
 status: PUBLIC
 categories:
-  - news
+  - sme_news
 attributes:
   - code: ufficio
     value: null

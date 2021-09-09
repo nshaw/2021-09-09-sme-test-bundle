@@ -196,7 +196,7 @@ template: |-
                                   <nav class="navbar navbar-expand-lg has-megamenu">
                                       <a class="custom-navbar-toggler" type="button" aria-controls="nav100" aria-expanded="false" aria-label="Toggle navigation" data-target="#nav100">
                                           <svg class="icon">
-                                          <use xlink:href="<@wp.resourceURL />static/smetemplate/img/sprite.svg#it-burger"></use>
+                                          <use xlink:href="<@wp.resourceURL />smetemplate/img/sprite.svg#it-burger"></use>
                                           </svg>
                                       </a>
                                       <div class="navbar-collapsable" id="nav100" style="display: none;">
@@ -220,7 +220,7 @@ template: |-
                                               <div class="close-div close-div-custom">
                                                   <button class="btn close-menu" type="button">
                                                       <svg class="icon">
-                                                      <use href="<@wp.resourceURL />static/smetemplate/img/sprite.svg#it-close"></use>
+                                                      <use href="<@wp.resourceURL />smetemplate/img/sprite.svg#it-close"></use>
                                                       </svg>
                                                       <span class="it-close">Chiudi</span>
                                                   </button>
@@ -230,7 +230,7 @@ template: |-
                                                       <div class="custom-box">
                                                           <#if (Session.currentUser.username != "guest") >  
                                                           <svg class="icon icon-lg icon-custom">
-                                                          <use xlink:href="<@wp.resourceURL />static/smetemplate/img/sprite.svg#it-user"></use>
+                                                          <use xlink:href="<@wp.resourceURL />smetemplate/img/sprite.svg#it-user"></use>
                                                           </svg>
 
                                                           <div class="user-logged">
