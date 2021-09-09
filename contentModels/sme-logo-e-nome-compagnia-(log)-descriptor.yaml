@@ -1,4 +1,4 @@
-id: 11
+id: 511
 contentType: LOG
 description: Sme Logo e nome compagnia (LOG)
 contentShape: "<!--Sme Logo e nome compagnia (LOG)-->\r\n<a href=\"$content.link.destination\" title=\"$content.link.text\">\r\n   <img class=\"icon-lg\" src=\"$content.img.getImagePath('0')\" alt=\"$content.img.text\">&ensp;\r\n   <div class=\"it-brand-text\">\r\n        <h2 class=\"no_toc\">\r\n            $content.text.text\r\n        </h2>\r\n        <h3 class=\"no_toc d-none d-md-block\">\r\n             $content.text2.text                                               \r\n        </h3>\r\n    </div>\r\n</a>"

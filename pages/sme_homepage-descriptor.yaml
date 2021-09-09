@@ -25,7 +25,7 @@ widgets:
     pos: 4
   - code: content_viewer_list
     config:
-      modelId: '6'
+      modelId: '506'
       maxElemForItem: '4'
       maxElements: '4'
       title_it: In evidenza
@@ -36,7 +36,7 @@ widgets:
     pos: 5
   - code: content_viewer_list
     config:
-      modelId: '7'
+      modelId: '507'
       maxElemForItem: '6'
       maxElements: '6'
       title_it: Documenti in evidenza

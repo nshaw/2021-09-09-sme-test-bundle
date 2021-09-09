@@ -14,7 +14,7 @@ widgets:
   - code: content_viewer
     config:
       contentDescription: logo esercito musthead
-      modelId: '1'
+      modelId: '501'
       ownerGroup: free
       contentId: LOG158
       joinGroups: '[]'
@@ -25,7 +25,7 @@ widgets:
   - code: content_viewer
     config:
       contentDescription: logo reggimento casalina
-      modelId: '11'
+      modelId: '511'
       ownerGroup: free
       contentId: LOG154
       joinGroups: '[]'
@@ -45,7 +45,7 @@ widgets:
   - code: content_viewer
     config:
       contentDescription: logo esercito footer
-      modelId: '2'
+      modelId: '502'
       ownerGroup: free
       contentId: LOG144
       joinGroups: '[]'
@@ -53,7 +53,7 @@ widgets:
   - code: content_viewer
     config:
       contentDescription: logo agid footer
-      modelId: '2'
+      modelId: '502'
       ownerGroup: free
       contentId: LOG147
       joinGroups: '[]'

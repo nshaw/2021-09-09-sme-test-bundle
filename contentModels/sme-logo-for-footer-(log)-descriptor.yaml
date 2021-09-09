@@ -1,4 +1,4 @@
-id: 2
+id: 502
 contentType: LOG
 description: Sme Logo for  footer (LOG)
 contentShape: "<!--Sme Logo for  footer (LOG)-->\r\n<a href=\"$content.link.destination\">\r\n    <img class=\"icon-footer\" src=\"$content.img.getImagePath('0')\" alt=\"$content.img.text\" title=\"Vai al sito $content.img.text\">\r\n</a>"
