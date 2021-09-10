@@ -44,7 +44,7 @@ widgets:
       title_it: In evidenza
       title_en: Highlights
       categories:
-        - news
+        - sme_news
       contentType: CRD
     pos: 5
   - code: content_viewer_list
