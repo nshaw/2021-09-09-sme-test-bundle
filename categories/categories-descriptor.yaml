@@ -1,40 +1,40 @@
 - code: documents
   parentCode: home
   titles:
-    en: documents
+    en: Documents
     it: Documenti
 - code: links
   parentCode: home
   titles:
-    en: links
-    it: link
+    en: Links
+    it: Link
 - code: media
   parentCode: home
   titles:
-    en: media
-    it: media
+    en: Media
+    it: Media
 - code: sme_news
   parentCode: home
   titles:
-    en: news
-    it: notizie
+    en: Sme news
+    it: Notizie sme
 - code: highlight_links
   parentCode: links
   titles:
-    en: highlight links
-    it: link in evidenza
+    en: Highlight links
+    it: Hink in evidenza
 - code: quick_links
   parentCode: links
   titles:
-    en: quick links
-    it: link veloci
+    en: Quick links
+    it: Link veloci
 - code: images
   parentCode: media
   titles:
-    en: images
-    it: immagini
+    en: Images
+    it: Immagini
 - code: video
   parentCode: media
   titles:
-    en: video
-    it: video
+    en: Video
+    it: Video
