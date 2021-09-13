@@ -22,7 +22,7 @@ attributes:
     value: null
     values:
       en:
-        correlationCode: '32'
+        correlationCode: '532'
         name: logoSME.png
         metadata:
           Compression Type: Deflate
@@ -51,7 +51,7 @@ attributes:
           Green Y: '60000'
           Bits Per Sample: '8'
       it:
-        correlationCode: '32'
+        correlationCode: '532'
         name: logoSME.png
         metadata:
           Compression Type: Deflate
