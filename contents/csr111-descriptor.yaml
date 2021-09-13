@@ -18,7 +18,7 @@ attributes:
     value: null
     values:
       en:
-        correlationCode: '141'
+        correlationCode: '541'
         name: Telefono@2x_d0.png
         metadata:
           Filter Method: Adaptive
@@ -37,7 +37,7 @@ attributes:
           Color Type: True Color with Alpha
           Bits Per Sample: '8'
       it:
-        correlationCode: '141'
+        correlationCode: '541'
         name: Telefono@2x_d0.png
         metadata:
           Filter Method: Adaptive
